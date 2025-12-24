@@ -50,11 +50,11 @@ Unity를 활용하여 3D로 제작하였습니다
 네트워크-다이어그램
 
 
-<img width="513" height="355" alt="Image" src="https://github.com/user-attachments/assets/6086972a-1c0a-4b24-99a8-d090119e80ae" />
+<img width="499" height="306" alt="Image" src="https://github.com/user-attachments/assets/0a21f822-0659-4867-beb6-213904c1fb42" />
 
 --------------------------------------------------------------------------------------------------------------------
 
-<img width="763" height="355" alt="Image" src="https://github.com/user-attachments/assets/2bb43409-4d3c-4e3b-b513-9b07c39217dd" />
+<img width="669" height="305" alt="Image" src="https://github.com/user-attachments/assets/ad02e14c-0c34-43c2-b52a-f9ac4b96bafc" />
 
 --------------------------------------------------------------------------------------------------------------------
 
@@ -62,11 +62,11 @@ Unity를 활용하여 3D로 제작하였습니다
 인게임시스템-다이어그램
 
 
-<img width="375" height="379" alt="Image" src="https://github.com/user-attachments/assets/fb37ac52-ade8-4160-a3af-6e87b15cf378" />
+<img width="754" height="275" alt="Image" src="https://github.com/user-attachments/assets/0ad05927-cafb-41d0-ae90-be1d386a1ba4" />
 
 --------------------------------------------------------------------------------------------------------------------
 
-<img width="624" height="289" alt="Image" src="https://github.com/user-attachments/assets/4057a47e-6150-4f9a-8b0a-b546d556a002" />
+<img width="681" height="287" alt="Image" src="https://github.com/user-attachments/assets/e6737f7e-4dec-4f81-8ea1-a48cb3ff96d9" />
 
 --------------------------------------------------------------------------------------------------------------------
 
@@ -74,7 +74,7 @@ Unity를 활용하여 3D로 제작하였습니다
 맵시스템-다이어그램
 
 
-<img width="484" height="331" alt="Image" src="https://github.com/user-attachments/assets/61f83f35-cf6e-4e90-a86c-aba71072d180" />
+<img width="528" height="306" alt="Image" src="https://github.com/user-attachments/assets/6813b325-9356-4b1f-a580-6b04c8bf6d6e" />
 
 --------------------------------------------------------------------------------------------------------------------
 
@@ -82,7 +82,7 @@ Unity를 활용하여 3D로 제작하였습니다
 데이터-다이어그램
 
 
-<img width="420" height="277" alt="Image" src="https://github.com/user-attachments/assets/1fb41fc5-e888-4aea-9fd8-1a9bbfc19282" />
+<img width="474" height="275" alt="Image" src="https://github.com/user-attachments/assets/eeabae0d-7e78-48b6-90b4-5a8d14de423d" />
 
 --------------------------------------------------------------------------------------------------------------------
 
